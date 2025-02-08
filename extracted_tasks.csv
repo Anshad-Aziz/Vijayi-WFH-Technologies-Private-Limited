@@ -1,0 +1,101 @@
+ID,Raw Text,Task,Person,Deadline,Category,Extracted Task
+1,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+2,Daniel has to submit the tax documents by April 15.,Submit tax documents,Daniel,April 15,Work,['Daniel has to submit the tax documents by April 15.']
+3,Ava needs to clean the garden this afternoon.,Clean the garden,Ava,This afternoon,Household,['Ava needs to clean the garden this afternoon.']
+4,Ava needs to clean the garden this afternoon.,Clean the garden,Ava,This afternoon,Household,['Ava needs to clean the garden this afternoon.']
+5,Noah should prepare a presentation for the conference.,Prepare presentation,Noah,Not mentioned,Work,['Noah should prepare a presentation for the conference.']
+6,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+7,Olivia should finalize the budget report before next Monday.,Finalize budget report,Olivia,Before next Monday,Work,
+8,John must submit the report by Monday.,Submit report,John,Monday,Work,['John must submit the report by Monday.']
+9,Noah should prepare a presentation for the conference.,Prepare presentation,Noah,Not mentioned,Work,['Noah should prepare a presentation for the conference.']
+10,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+11,Rahul has to buy snacks for all of us.,Buy snacks,Rahul,Not mentioned,Shopping,['Rahul has to buy snacks for all of us.']
+12,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+13,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+14,Michael should fix the leaking tap by this weekend.,Fix the leaking tap,Michael,This weekend,Household,['Michael should fix the leaking tap by this weekend.']
+15,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+16,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+17,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+18,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+19,Rahul has to buy snacks for all of us.,Buy snacks,Rahul,Not mentioned,Shopping,['Rahul has to buy snacks for all of us.']
+20,Olivia should finalize the budget report before next Monday.,Finalize budget report,Olivia,Before next Monday,Work,
+21,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+22,Charlotte must review the marketing campaign draft by Wednesday.,Review marketing campaign,Charlotte,Wednesday,Work,['Charlotte must review the marketing campaign draft by Wednesday.']
+23,James is responsible for arranging the conference call.,Arrange conference call,James,Not mentioned,Meetings,
+24,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+25,Sarah has to book flight tickets by tomorrow evening.,Book flight tickets,Sarah,Tomorrow evening,Personal,['Sarah has to book flight tickets by tomorrow evening.']
+26,Michael should fix the leaking tap by this weekend.,Fix the leaking tap,Michael,This weekend,Household,['Michael should fix the leaking tap by this weekend.']
+27,Elijah is required to complete the coding assignment by tonight.,Complete coding assignment,Elijah,Tonight,Work,
+28,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+29,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+30,John must submit the report by Monday.,Submit report,John,Monday,Work,['John must submit the report by Monday.']
+31,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+32,Elijah is required to complete the coding assignment by tonight.,Complete coding assignment,Elijah,Tonight,Work,
+33,Daniel has to submit the tax documents by April 15.,Submit tax documents,Daniel,April 15,Work,['Daniel has to submit the tax documents by April 15.']
+34,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+35,Mia is assigned to send invitations for the annual party.,Send invitations,Mia,Not mentioned,Meetings,['Mia is assigned to send invitations for the annual party.']
+36,Noah should prepare a presentation for the conference.,Prepare presentation,Noah,Not mentioned,Work,['Noah should prepare a presentation for the conference.']
+37,Rahul has to buy snacks for all of us.,Buy snacks,Rahul,Not mentioned,Shopping,['Rahul has to buy snacks for all of us.']
+38,Charlotte must review the marketing campaign draft by Wednesday.,Review marketing campaign,Charlotte,Wednesday,Work,['Charlotte must review the marketing campaign draft by Wednesday.']
+39,Michael should fix the leaking tap by this weekend.,Fix the leaking tap,Michael,This weekend,Household,['Michael should fix the leaking tap by this weekend.']
+40,Olivia should finalize the budget report before next Monday.,Finalize budget report,Olivia,Before next Monday,Work,
+41,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+42,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+43,Olivia should finalize the budget report before next Monday.,Finalize budget report,Olivia,Before next Monday,Work,
+44,Alice should clean the room before 5 PM today.,Clean the room,Alice,5 PM today,Household,['Alice should clean the room before 5 PM today.']
+45,Sarah has to book flight tickets by tomorrow evening.,Book flight tickets,Sarah,Tomorrow evening,Personal,['Sarah has to book flight tickets by tomorrow evening.']
+46,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+47,Lucas needs to repair the broken chair before Saturday.,Repair broken chair,Lucas,Before Saturday,Household,
+48,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+49,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+50,Lucas needs to repair the broken chair before Saturday.,Repair broken chair,Lucas,Before Saturday,Household,
+51,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+52,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+53,Charlotte must review the marketing campaign draft by Wednesday.,Review marketing campaign,Charlotte,Wednesday,Work,['Charlotte must review the marketing campaign draft by Wednesday.']
+54,Daniel has to submit the tax documents by April 15.,Submit tax documents,Daniel,April 15,Work,['Daniel has to submit the tax documents by April 15.']
+55,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+56,Michael should fix the leaking tap by this weekend.,Fix the leaking tap,Michael,This weekend,Household,['Michael should fix the leaking tap by this weekend.']
+57,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+58,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+59,Mia is assigned to send invitations for the annual party.,Send invitations,Mia,Not mentioned,Meetings,['Mia is assigned to send invitations for the annual party.']
+60,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+61,Ava needs to clean the garden this afternoon.,Clean the garden,Ava,This afternoon,Household,['Ava needs to clean the garden this afternoon.']
+62,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+63,Olivia should finalize the budget report before next Monday.,Finalize budget report,Olivia,Before next Monday,Work,
+64,Olivia should finalize the budget report before next Monday.,Finalize budget report,Olivia,Before next Monday,Work,
+65,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+66,Sophia must order groceries before 7 PM.,Order groceries,Sophia,Before 7 PM,Shopping,
+67,Mia is assigned to send invitations for the annual party.,Send invitations,Mia,Not mentioned,Meetings,['Mia is assigned to send invitations for the annual party.']
+68,Sophia must order groceries before 7 PM.,Order groceries,Sophia,Before 7 PM,Shopping,
+69,Liam must schedule the meeting with the vendor.,Schedule meeting,Liam,Not mentioned,Meetings,['Liam must schedule the meeting with the vendor.']
+70,Mia is assigned to send invitations for the annual party.,Send invitations,Mia,Not mentioned,Meetings,['Mia is assigned to send invitations for the annual party.']
+71,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+72,Sarah has to book flight tickets by tomorrow evening.,Book flight tickets,Sarah,Tomorrow evening,Personal,['Sarah has to book flight tickets by tomorrow evening.']
+73,Charlotte must review the marketing campaign draft by Wednesday.,Review marketing campaign,Charlotte,Wednesday,Work,['Charlotte must review the marketing campaign draft by Wednesday.']
+74,James is responsible for arranging the conference call.,Arrange conference call,James,Not mentioned,Meetings,
+75,Rahul has to buy snacks for all of us.,Buy snacks,Rahul,Not mentioned,Shopping,['Rahul has to buy snacks for all of us.']
+76,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+77,The manager assigned David to prepare the meeting notes.,Prepare meeting notes,David,Not mentioned,Meetings,['The manager assigned David to prepare the meeting notes.']
+78,James is responsible for arranging the conference call.,Arrange conference call,James,Not mentioned,Meetings,
+79,James is responsible for arranging the conference call.,Arrange conference call,James,Not mentioned,Meetings,
+80,John must submit the report by Monday.,Submit report,John,Monday,Work,['John must submit the report by Monday.']
+81,Charlotte must review the marketing campaign draft by Wednesday.,Review marketing campaign,Charlotte,Wednesday,Work,['Charlotte must review the marketing campaign draft by Wednesday.']
+82,Sophia must order groceries before 7 PM.,Order groceries,Sophia,Before 7 PM,Shopping,
+83,Alice should clean the room before 5 PM today.,Clean the room,Alice,5 PM today,Household,['Alice should clean the room before 5 PM today.']
+84,Daniel has to submit the tax documents by April 15.,Submit tax documents,Daniel,April 15,Work,['Daniel has to submit the tax documents by April 15.']
+85,Daniel has to submit the tax documents by April 15.,Submit tax documents,Daniel,April 15,Work,['Daniel has to submit the tax documents by April 15.']
+86,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+87,Sophia must order groceries before 7 PM.,Order groceries,Sophia,Before 7 PM,Shopping,
+88,Daniel has to submit the tax documents by April 15.,Submit tax documents,Daniel,April 15,Work,['Daniel has to submit the tax documents by April 15.']
+89,Isabella has to buy a birthday gift for Mom.,Buy birthday gift,Isabella,Not mentioned,Shopping,['Isabella has to buy a birthday gift for Mom.']
+90,Emma needs to send the email updates to the team today.,Send email updates,Emma,Today,Work,['Emma needs to send the email updates to the team today.']
+91,Ava needs to clean the garden this afternoon.,Clean the garden,Ava,This afternoon,Household,['Ava needs to clean the garden this afternoon.']
+92,Alice should clean the room before 5 PM today.,Clean the room,Alice,5 PM today,Household,['Alice should clean the room before 5 PM today.']
+93,Noah should prepare a presentation for the conference.,Prepare presentation,Noah,Not mentioned,Work,['Noah should prepare a presentation for the conference.']
+94,Ava needs to clean the garden this afternoon.,Clean the garden,Ava,This afternoon,Household,['Ava needs to clean the garden this afternoon.']
+95,Rahul has to buy snacks for all of us.,Buy snacks,Rahul,Not mentioned,Shopping,['Rahul has to buy snacks for all of us.']
+96,Michael should fix the leaking tap by this weekend.,Fix the leaking tap,Michael,This weekend,Household,['Michael should fix the leaking tap by this weekend.']
+97,Rahul has to buy snacks for all of us.,Buy snacks,Rahul,Not mentioned,Shopping,['Rahul has to buy snacks for all of us.']
+98,Mia is assigned to send invitations for the annual party.,Send invitations,Mia,Not mentioned,Meetings,['Mia is assigned to send invitations for the annual party.']
+99,Charlotte must review the marketing campaign draft by Wednesday.,Review marketing campaign,Charlotte,Wednesday,Work,['Charlotte must review the marketing campaign draft by Wednesday.']
+100,Michael should fix the leaking tap by this weekend.,Fix the leaking tap,Michael,This weekend,Household,['Michael should fix the leaking tap by this weekend.']
